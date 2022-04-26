@@ -8,8 +8,8 @@ Create a form on a JSP-page
 
 Create a servlet 
 - configure a URL through web.xml
-- Receive RequestParamters from URL(POST)
-- Receive  RequestParamters from form(GET)
+- Receive RequestParamters from URL(GET)
+- Receive  RequestParamters from form(POST)
 - Send values to front-end (to JSP page)
 
 Validate login form and send result 
